@@ -1,4 +1,4 @@
-# flutterapp
+# Lab 2 Submission
 
 A new Flutter application.
 
